@@ -5,3 +5,7 @@ This will be a place where I store small projects that may be of interest to oth
 ## NPC_name_generator.ipynb
 
 A small Jupyter notebook which downloads a zipped file of real names from the internet and uses an N-grams approach to create new synthetic names
+
+## curve_fitting.ipynb
+
+A Jupyter notebook demonstrating how to use scipy.optimize.curve_fit
