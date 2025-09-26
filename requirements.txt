@@ -171,6 +171,7 @@ pytz==2023.3
 pywin32==305.1
 PyYAML==6.0
 pyzmq @ file:///C:/b/abs_655zk4a3s8/croot/pyzmq_1686601465034/work
+qrcode==8.2
 redis==4.6.0
 referencing==0.30.2
 regex==2023.6.3
